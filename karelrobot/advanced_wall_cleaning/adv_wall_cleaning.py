@@ -31,10 +31,6 @@ def rotate_left():
     pass
 
 
-def do_steps(number_of_steps):
-    pass
-
-
 def clean_wall():
     """Clean one wall to the nearest corner"""
     pass
